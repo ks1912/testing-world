@@ -1,4 +1,7 @@
-# Playwright / Cypress / Webdriver.io Sessions
+# ABOUT THIS REPO
+---
+## testing-world
+Exploring testing tools like Playwright, Cypress, Webdriver.io and many more. One stop platform for all Functional Testing and Non Functional Testing. Don't worry we will see how manual testing is still important and valid.
 
 This repository is a comprehensive guide to mastering Playwright, Cypress, and Webdriver.io for end-to-end testing, focusing on understanding the fundamentals, writing efficient automation scripts, and preparing for interviews. 🚀
 
@@ -139,11 +142,6 @@ Boost your confidence for interviews:
 
 ### 🚀 Get Started Now!
 Feel free to explore, contribute, and learn from this repository. If you have any questions or suggestions, don't hesitate to create an issue or a pull request!
-
----
-
-# testing-world
-Exploring testing tools like Playwright, Cypress, Webdriver.io and many more. One stop platform for all Functional Testing and Non Functional Testing. Don't worry we will see how manual testing is still important and valid.
 
 ---
 ### 📫 Contact
